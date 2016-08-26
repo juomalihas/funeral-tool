@@ -1,2 +1,1 @@
 # funeral-tool
-# funeral-tool
